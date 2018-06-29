@@ -1,0 +1,29 @@
+img{
+  height: 50%;
+  width: 50%;
+}
+a{
+  text-decoration: none;s
+}
+.heading1{
+  color: orange;
+}
+body{
+  background-image:url(https://orig00.deviantart.net/41a5/f/2011/246/c/9/debian_dark_wallpapers_hd_1080_by_malkowitch-d3f5ydf.jpg);
+}
+p{
+  color: orange;
+}
+.heading2{
+  color: maroon
+}
+
+body{
+  background-position: center;
+}
+ul{
+  color: orange;
+}
+h2{
+  color: maroon;
+}
